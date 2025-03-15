@@ -1,0 +1,1 @@
+docker pull rancher/pause:3.6
